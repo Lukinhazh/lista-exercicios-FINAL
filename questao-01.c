@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main() {
+int main() 
+{
     float r, d, comp, area;
 
     printf("Digite o raio da circunferência: ");
