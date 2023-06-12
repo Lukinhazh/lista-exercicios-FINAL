@@ -60,7 +60,6 @@ int main()
     }
     
     printf("%i, %i, %i", n3, n2, n1);
-}
 
     return 0;
 }
